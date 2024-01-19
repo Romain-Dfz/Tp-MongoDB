@@ -1,0 +1,39 @@
+[{
+  "_id": {
+    "$oid": "65aa3da87d65c43ee64dac77"
+  },
+  "name": "Romain",
+  "age": 24,
+  "medicalHistory": [
+    {"desease":"rhume",
+    "treatment": "spray"},
+    {"desease":"grippe",
+    "treatment":"anti-biotique"}
+  ]
+},
+{
+  "_id": {
+    "$oid": "65aa3da87d65c43ee64dac78"
+  },
+  "name": "Pauline",
+  "age": 22,
+  "medicalHistory": [
+    {"desease":"Toux",
+    "treatment": "sirop"},
+    {"desease":"grippe",
+    "treatment":"anti-biotique"}
+  ]
+},
+{
+  "_id": {
+    "$oid": "65aa3da87d65c43ee64dac79"
+  },
+  "name": "Miguel",
+  "age": 35,
+  "medicalHistory": [
+    {"desease":"rhume",
+    "treatment": "sirop"},
+    {"desease":"grippe",
+    "treatment":"anti-biotique"}
+  ]
+}]
